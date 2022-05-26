@@ -62,7 +62,7 @@
                                 android:layout_marginTop="@dimen/text_20sp"
                                 android:layout_marginRight="@dimen/_25dp"
                                 android:scaleType="fitXY"
-                                app:srcCompat="@drawable/mishipay_logo" />
+                                app:srcCompat="@drawable/ic_mishipay_logo_dark" />
 
                             <RelativeLayout
                                 android:layout_width="match_parent"

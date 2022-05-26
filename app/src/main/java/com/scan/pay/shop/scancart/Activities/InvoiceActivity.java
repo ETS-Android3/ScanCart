@@ -5,7 +5,6 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.SystemClock;
 import android.view.MenuItem;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -34,7 +33,6 @@ public class InvoiceActivity extends AppCompatActivity {
     private static List<ProductModel> productModels = null;
     private static SharedPreferences invoiceSharedPref = null;
     private static long totalAmount = 0;
-    private ImageView imageLogo;
     private TextView txtTime, txtDate, txtAmount;
     private InvoiceListAdapter adapter;
 
@@ -42,9 +40,6 @@ public class InvoiceActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_invoice);
-
-        imageLogo = findViewById(R.id.image_logo);
-        imageLogo.setImageResource(R.drawable.mishipay_logo);
 
         txtDate = findViewById(R.id.txt_date);
         txtTime = findViewById(R.id.txt_Time);
