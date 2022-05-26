@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--text Sizes-->
+    <dimen name="text_13sp">13sp</dimen>
+    <dimen name="text_15sp">15sp</dimen>
+    <dimen name="amount_tag_18sp">18sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_25sp">25sp</dimen>
+    <dimen name="text_32sp">32sp</dimen>
+    <dimen name="text_amount">40sp</dimen>
+
+    <!--marging/pading-->
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="_16dp">16dp</dimen>
+    <dimen name="_25dp">25dp</dimen>
+    <dimen name="_50dp">50dp</dimen>
+    <dimen name="_10dp">10dp</dimen>
+    <dimen name="negative_40dp">-40dp</dimen>
+    <dimen name="_1dp">1dp</dimen>
+    <dimen name="_3dp">3dp</dimen>
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="_30dp">30dp</dimen>
+    <dimen name="_200dp">200dp</dimen>
+
+    <dimen name="_100dp">100dp</dimen>
+    <dimen name="_150dp">150dp</dimen>
+
+    <dimen name="recyclerView_item_height">125dp</dimen>
+    <dimen name="printImgLogoWidthHeight">60dp</dimen>
+    <dimen name="amountLayoutHeight">188dp</dimen>
+    <dimen name="divider_height">0.9dip</dimen>
+    <dimen name="padding_item">2dp</dimen>
+
+
+    <!--ATM Card Details-->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="xxsmall_text">8sp</dimen>
+    <dimen name="xsmall_text">10sp</dimen>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="medium_text">14sp</dimen>
+    <dimen name="large_text">16sp</dimen>
+    <dimen name="header_text">18sp</dimen>
+    <dimen name="nav_header_text">20sp</dimen>
+    <dimen name="count_text">30sp</dimen>
+
+    <dimen name="items_inbetween">8dp</dimen>
+    <dimen name="items_inbetween_small">4dp</dimen>
+    <dimen name="items_inbetween_medium">12dp</dimen>
+
+
+    <dimen name="card_height">230dp</dimen>
+    <dimen name="chip_top_margin">25dp</dimen>
+    <dimen name="chip_width">55dp</dimen>
+    <dimen name="chip_height">40dp</dimen>
+    <dimen name="cardtype_width">85dp</dimen>
+    <dimen name="cardtype_height">50dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+    <dimen name="card_margin">25dp</dimen>
+
+    <dimen name="text_medium">14sp</dimen>
+    <dimen name="quesText">17sp</dimen>
+    <dimen name="ansText">14sp</dimen>
+
+
+    <dimen name="receiptWidth">150dp</dimen>
+    <dimen name="chartWidth">600dp</dimen>
+    <dimen name="chartHeight">300dp</dimen>
+    <dimen name="buttonWidth">150dp</dimen>
+
+    <dimen name="nav_header_height">176dp</dimen>
+</resources>

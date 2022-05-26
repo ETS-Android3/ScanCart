@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ScanCart</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="start_capture">Start Capture</string>
+    <string name="stop_capture">Stop Capture</string>
+
+
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="batchNumber">Batch No:</string>
+    <string name="mid">MID:</string>
+    <string name="tid">TID:</string>
+    <string name="invoiceNumber">Inv No:</string>
+    <string name="status">Status:</string>
+    <string name="sale">Sale</string>
+    <string name="amt">Total Amount:</string>
+    <string name="rupee">\u20B9</string>
+
+    <string name="apprCode">Approval Code:</string>
+
+</resources>
