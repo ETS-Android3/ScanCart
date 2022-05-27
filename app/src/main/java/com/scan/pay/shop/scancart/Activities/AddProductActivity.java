@@ -90,7 +90,6 @@ public class AddProductActivity extends AppCompatActivity {
                     c.close();
 
                     Bitmap thumbnail = (BitmapFactory.decodeFile(picturePath));
-                    Log.w("path of image from gallery......******************.........", picturePath + "");
                     imageViewProduct.setImageBitmap(thumbnail);
                     break;
             }
@@ -135,6 +134,8 @@ public class AddProductActivity extends AppCompatActivity {
         } catch (Exception e) {
             e.printStackTrace();
         }
+
+        picturePath = "";
     }
 
     private boolean validateInput() {
