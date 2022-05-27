@@ -4,7 +4,7 @@ This is the sample repository for simple scan and pay e-commerce app. Where user
 
 Please watch [this video](https://youtu.be/e7rDq12xq_g) for the demo.
 
-APK is provided in [this link.](https://github.com/kgmalvi/ScanCart/blob/master/APK/ScanCart_Version_01.00.00-00.apk)
+APK is provided in [this link.](https://github.com/kgmalvi/ScanCart/blob/master/APK/ScanCart_Version_01.00.00-01.apk)
 
 Assumptions:
 - This is the MVVM based application creating using Android JetPack components.
